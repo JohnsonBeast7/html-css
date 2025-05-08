@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: purple;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:visited{
+    color: rgb(131, 19, 116);
+    text-decoration: underline;
+}
+a:hover{
+    color: rgb(170, 73, 194);
+    text-decoration: underline
+}
+a:active{
+    color: rgb(73, 10, 78);
+}
+a::after{
+    content: '[link]';
+    text-decoration: none;
+    font-weight: normal;
+    color: darkgray;
+}
+
+.diferente::before{
+    content: '[importante]';
+    text-decoration: none;
+    font-weight: normal;
+    color: darkgray;
+}

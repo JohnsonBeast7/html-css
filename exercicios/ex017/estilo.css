@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'roboto';
+    src: url("../ex018/roboto/Roboto-Regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+body {
+    font: normal 16px 'roboto';
+    text-align: justify;
+    text-indent: 30px
+}

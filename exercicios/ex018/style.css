@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'robotofino';
+    src: url("roboto/Roboto-Thin.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotonormal';
+    src: url("roboto/Roboto-Regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;;
+}
+
+h1 {
+    font:normal 3em'robotonormal';
+}
+
+p {
+    font: normal 2em 'robotofino';
+}
