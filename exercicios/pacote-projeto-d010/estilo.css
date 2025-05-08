@@ -22,13 +22,22 @@
     --fontetitulo: 'bebas-neue-regular', cursive;
     
 }
+
+* {
+    box-sizing: border-box;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
   
 
 body {
     background-color: rgb(91, 255, 154);
     color: rgb(255, 255, 255);
     font: normal 1em arial;
-    overflow-x: hidden;
+    
     
 }
 
@@ -53,7 +62,7 @@ header h1 {
     background: linear-gradient(to bottom, rgb(61, 202, 108), rgb(31, 97, 53));
     min-height: 200px;
     padding: 10px;
-    margin: -10px;
+    margin: 0px;
     padding-bottom: 15px;
     position: relative;
     padding-bottom: 5px;
@@ -182,36 +191,25 @@ article #bugdroid {
     
 }
 
-iframe {
-    display: block;
-    margin: auto;
-    width: 850px;
-    height: 500px;
-    
-}
 
 #droidvideo {
-    background-color: rgb(31, 97, 53);
-    
-    margin: 0px -10px;
-    padding: 20px;
-    padding-bottom: 55.4%;
-    position: relative;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-   
-    
-    
-   
+    background-color: rgb(31, 97, 53); /* Verde escuro */
+    max-width: 1000px;
+    margin: 40px auto; /* Centralizado na página */
+    padding: 20px; /* Moldura ao redor */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
 }
 
-#droidvideo > iframe {
-    position: absolute;
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
-    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.5);
+#droidvideo iframe {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: none;
+    border-radius: 4px;
 }
+
+
 
 
 #extra {
@@ -260,7 +258,7 @@ footer {
     color: white;
     text-align: center;
     padding: 3px;
-    margin: -10px;
+    margin: 0px;
     margin-top:50px;
     width: 100%;
     padding-right: 15px;
