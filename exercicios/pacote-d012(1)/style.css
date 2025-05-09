@@ -1,0 +1,162 @@
+body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    
+    background-color: #2e2e2e;
+}
+
+header {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 70px;
+    
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 85px;
+    font-size: 3em;
+    
+}
+
+header p{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+
+.texto1 {
+    padding-top: 100px;
+    background-color: white;
+    font-family: cursive;
+    font-size: 2em;
+    text-indent: 40px;
+    padding-bottom: 100px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.397);
+    margin-bottom: 0;
+    box-shadow: 10px 10px 3px rgb(0, 0, 0);
+}
+
+.texto1 p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.fundo1 {
+    background-image: url(imagens/background001.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+    padding-top: 100px;
+    padding-bottom: 250px;
+    
+}
+
+.texto2 {
+    padding-top: 60px;
+    color: white;
+    width: 25%;
+    background-color: rgba(0, 0, 0, 0.322);
+    font-family: cursive;
+    font-size: 2em;
+    text-indent: 40px;
+    padding-bottom: 50px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.397);
+    margin-bottom: 0;
+}
+
+.texto2 p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.texto3 {
+    padding-top: 100px;
+    background-color: white;
+    font-family: cursive;
+    font-size: 2em;
+    text-indent: 40px;
+    padding-bottom: 100px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.397);
+    margin-bottom: 0;
+    box-shadow: 10px 10px 3px rgb(0, 0, 0);
+}
+
+.texto3 p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.fundo2 {
+    background-image: url(imagens/background002.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+    padding-top: 100px;
+    padding-bottom: 250px;
+}
+
+.texto4 {
+    padding-top: 60px;
+    color: white;
+    width: 25%;
+    background-color: rgba(0, 0, 0, 0.322);
+    font-family: cursive;
+    font-size: 2em;
+    text-indent: 40px;
+    padding-bottom: 50px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.397);
+    margin-bottom: 0;
+}
+
+.texto4 p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.texto5 {
+    padding-top: 100px;
+    background-color: white;
+    font-family: cursive;
+    font-size: 2em;
+    text-indent: 40px;
+    padding-bottom: 100px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.397);
+    margin-bottom: 0;
+    box-shadow: 10px 10px 3px rgb(0, 0, 0);
+}
+
+.texto5 p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    margin: auto;
+
+}
+    
