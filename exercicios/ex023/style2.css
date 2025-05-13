@@ -1,0 +1,28 @@
+th {
+    position: sticky;
+    top: 0;
+}
+
+
+
+body {
+    position: absolute;
+    bottom: 50%;
+    right: 50%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+
+    text-align: right;
+    vertical-align: top;
+    
+}

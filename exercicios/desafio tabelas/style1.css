@@ -1,0 +1,43 @@
+th {
+    position: sticky;
+    top: 0;
+}
+
+
+
+
+
+table {
+    
+    
+    width: 300px;
+    
+   
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+.tabela1{
+    position: absolute;
+    bottom: 280px;
+    left: 320px
+}
+
+.tabela2{
+    position: absolute;
+    bottom: 280px;
+    right: 320px}
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+  }
+

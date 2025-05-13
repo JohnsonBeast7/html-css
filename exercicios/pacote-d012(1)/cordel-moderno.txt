@@ -1,67 +1,29 @@
-Cordel Moderno
-Por Milton Duarte
-[SITE: https://www.recantodasletras.com.br/poesias/3186743]
 
-Estou ficando cansado
-Da tal tecnologia
-Só se fala por e-mail
-Mensagem curta e fria
-Twitter e Facebook
-Antes que eu caduque
-Vou dizer tudo em poesia.
-
-//---
-
-Não é mais como era antes
-É tudo abreviado
-"Você" só tem duas letras
-O "O" e o "E" foi riscado
-Para declarar o amor
-Basta botar uma flor
-E um coração desenhado.
-
-//---
-
-Arroba agora não pesa
-É parte de um endereço
-Ponto final nem se usa
-Ou vai até no começo
-Agora é .com
-Se o saite é muito bom
-Ele vale um alto preço.
-
-Pra piorar a liguagem
-O emoticom é um risco
-Tem símbolo para tudo
-Ponto e vírgula e um asterisco
-Um beijo significa
-Pra entender como fica
-Decifre esse rabisco.
-
-//---
-
-Tenho saudade das cartas
-Escritas com a própria mão
-Mandava no mês de Junho
-Só chegava no Verão
-Mas matava a saudade
-Era texto de verdade
-Nas linhas do coração.
-
-//---
-
-Agora, escrevo e envio
-Chegando na mesma hora
-Mas quando vou prosear
-A pessoa foi embora
-Abriu outro aplicativo
-O mundo ficou cativo
-Da tecnologia do agora.
-
-Felizmente, pra orar
-Não precisa de internet
-Deus escuta todo mundo
-Se quiser, faça esse teste
-Dois pontos são dois joelhos
-Seus lábios são aparelhos
-Deixe que Deus interprete.
+PLATAFORMA ONLINE - 70 75 82 85 90 95  |média 82,8 |mediana 83.5 |moda (-)
+ amplitude = (maior menos o menor numero) = 25
+ 
+ desvio = ( media menos o numero (-) ou numero menos a media (+) )
+ 70 = 12,8 | 75= 7,8 | 82 = 0,8 | 85 = 2,2 | 90 = 7,2 | 95 = 12,2
+ 
+ variancia  71,80 = (soma dos desvios ao quadrado dividido pela quantidade de numeros) 70 = 163,84 | 75 = 60,84 | 82 = 0,64 | 85 = 4,84 | 90 = 51,84 | 95 = 148,84
+ desvio padrão ( raiz quadrada da variancia) 8,47
+ 
+ amplitude interquartil (Mediana da segunda metade menos a mediana da primeira metade)
+ 90-75= 15
+ 
+ 
+ 
+ 
+ 
+ AULAS TRADICIONAIS - 60 65 74 77 78 88 | media 73,6 | mediana 75,5  |moda (-)
+ amplitude (maior menos o menor numero) =28  
+ 
+ desvio ( média menos os numeros (-) ou numero menos a media (+) ) 60=13,6 | 65=8,6 | 74= 0,4 | 77 = 3,4 | 78 = 4,4 | 88= 14,4
+ 
+ variancia ( soma dos desvios ao quadrado dividido pela (quantidade de número menos um) ) 60=184,96 | 65=73,96 | 74= 0,16 | 77 = 11,57 | 78 = 19,36 | 88= 207,36
+ 
+ desvio padrão (raiz quadrada da variancia) 
+ 
+ amplitude interquartil (Mediana da segunda metade menos a mediana da primeira metade)
+ 78 - 65 = 13
+ 
