@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet"  href="style2.css">
+</head>
+<body>
+    <h1>Exemplo de Formulário</h1>
+    <form action="cadastro.php" method="post" autocomplete="off">
+        <fieldset>
+            <legend>Cores do projeto</legend>
+            <input type="color" name="cor1" id="icor1"> <label for="icor1">Cabeçalho</label>
+            <br>
+            <input type="color" name="cor2" id="icor2"> <label for="ifem">Corpo</label>
+            <br>
+            <input type="color" name="cor3" id="icor3"> <label for="icod">Botões</label>
+            <br>
+            <input type="color" name="cor4" id="icor4"> <label for='icod'>Títulos</label>
+            <br>
+            <input type="color" name="cor5" id="icor5"> <label for='icod'>Parágrafos</label>
+            <br>
+            <input type="color" name="cor6" id="icor6"> <label for='icod'>Links</label>
+            <br>
+            <label for='icod'>Rodapé</label>  <input type="color" name="cor7" id="icor7"> 
+        </fieldset>
+
+        <fieldset>
+            <legend>Satisfação</legend>
+            <input type="range" name="satis" id="isatis" min="1" max="10" value="5">
+
+        </fieldset>
+
+        <fieldset>
+            <legend>Arquivos</legend>
+            <input type="file" name="arquivo" id="iarquivo">
+        </fieldset>
+        
+
+        <p>
+            <input type="submit" value="Enviar" id="ibotao1">
+            <input type="reset" value="Limpar" id="ibotao2">
+        </p>

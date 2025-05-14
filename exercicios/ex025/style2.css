@@ -1,0 +1,32 @@
+#ibotao1 {
+    background-color: rgb(58, 167, 25);
+    color: white;
+    border-radius: 3px;
+    border: none;
+    padding: 5px;
+    width: 80px;
+    font-size: 1em;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+#ibotao2 {
+    background-color: rgb(167, 30, 25);
+    color: white;
+    border-radius: 3px;
+    border: none;
+    padding: 5px;
+    font-size: 1em;
+    
+    width: 80px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+#isatis {
+    background-color: aquamarine;
+}

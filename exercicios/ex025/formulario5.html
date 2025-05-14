@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet"  href="style.css">
+</head>
+<body>
+    <h1>Exemplo de Formulário</h1>
+    <form action="cadastro.php" method="post" autocomplete="off">
+        <fieldset>
+            <legend>Sexo</legend>
+            <input type="radio" name="sexo" id="imasc" value="M"> <label for="imasc">Masculino</label>
+            <br>
+            <input type="radio" name="sexo" id="ifem" value="F"> <label for="ifem">Feminino</label>
+            <br>
+        </fieldset>
+
+
+
+        <fieldset>
+            <legend>Jogos</legend>
+            <input type="checkbox" name="jogos" id="ifort"> <label for="ifort">Fortnite</label>
+            <br>
+            <input type="checkbox" name="jogos" id="ileague"> <label for="ileague">League of Legends</label>
+            <br>
+            <input type="checkbox" name="jogos" id="icod"> <label for='icod'>Call of Duty</label>
+            <br>
+        </fieldset>
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
