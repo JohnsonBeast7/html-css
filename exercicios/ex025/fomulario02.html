@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet"  href="style.css">
+</head>
+<body>
+    <h1> Exemplo de formulário</h1>
+    <form action="cadastro.php" method="post" autocomplete="on">
+        <div class="campo1">
+            <label for="iusu" name="usu">Usuário:</label>
+            <input type="text" name="usu" id="iusu" required placeholder="digite aqui" autocomplete="username" required minlength="4" maxlength="12">
+        </div>
+        <div class="campo2">
+            <label for="isen" name="sen">Senha:</label>
+            <input type="password" name="sen" id="isen" required placeholder="digite aqui" autocomplete="new-password" required minlength="5" maxlength="10">
+        </div>
+        <div class="campo3">
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </div>

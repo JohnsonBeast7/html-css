@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet"  href="style.css">
+</head>
+<body>
+    <h1>Exemplo de Formulário</h1>
+    <form action="cadastro.php" method="get" autocomplete="on">
+        <p>
+            <label for="inome">Nome:</label>
+            <input type="text" name="nome" id="inome" placeholder="digite aqui" required autocomplete="name" maxlength="30">
+        </p>
+        <p>
+            <label for="imedia">Média</label>
+            <input type="number" name="media" id="imedia" placeholder="0 a 10" required min="0" max="10" step="0.1">
+        </p>
+        <p>
+            <label for="imes">Período Letivo</label>
+            <input type="date" name="mes" id="imes" value="2023-01-22">   
+        </p>
+        <p>
+            <label for="ihora">Hora do dia</label>
+            <input type="time" name="hora" id="ihora">
+        </p>
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
